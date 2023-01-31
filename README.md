@@ -6,7 +6,9 @@ I am Yujung Park, and I am studying Software Engineering Technology at Conestoga
 
 #### Software Engineering Technology
 ## Skills
-- 💻 C++ / HTML / CSS
+- 💻 C# / C / C++ / JAVASCRIPT / ASP.NET / JAVA / PHP / MYSQL
+- 💻 HTML / CSS / AJAX / JSON / XML / BOOTSTRAP / SASS
+- 💻 WINDOWS  / LINUX / UNIX / ANDROID
 - 🌱 I’m currently learning React, Redux 
 
 
